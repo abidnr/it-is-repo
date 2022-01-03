@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    font-size: large;
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+}
+img{
+    margin-left: 270px;
+    border: 5px solid rosybrown;
+    border-style: double;
+}
+#f1{
+    color: brown;
+}
